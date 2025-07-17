@@ -33,7 +33,7 @@ CHARA_CHANNEL_ID = os.getenv("CHARA_CHANNEL_ID", "lusst_log")
 SUPPORT_CHAT_ID = os.getenv("SUPPORT_CHAT_ID", "-1002521213057")
 mongo_url = os.getenv("MONGO_URL", "mongodb+srv://shreyan82683:shreyan82683@cluster0.ucwuljq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-MUSJ_JOIN = os.getenv("MUSJ_JOIN", "username")
+MUSJ_JOIN = os.getenv("MUSJ_JOIN", "-1002521213057")
 
 # Modified to support both image and video URLs
 START_MEDIA = os.getenv("START_MEDIA", "https://files.catbox.moe/tz669l.jpg,https://files.catbox.moe/90v7f0.mp4").split(',')
