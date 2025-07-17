@@ -1,6 +1,6 @@
 import random
 import requests
-from TEAMZYRO import *
+from LCatch import *
 
 emojis = ["👍", "😘", "❤️", "🔥", "🥰", "🤩", "💘", "😏", "🤯", "⚡️", "🏆", "🤭", "🎉"]
 
