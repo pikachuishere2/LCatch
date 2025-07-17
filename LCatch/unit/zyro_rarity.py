@@ -3,7 +3,7 @@ rarity_map = {
     2: "🟠 Nobel",
     3: "🔞 Nude",
     4: "👩‍❤️‍👨 Sex",
-    5: "🪐 Exclusive""
+    5: "🪐 Exclusive"
 }
 
 RARITY_NAMES = [
@@ -11,7 +11,7 @@ RARITY_NAMES = [
     "🟠 Nobel",
     "🔞 Nude",
     "👩‍❤️‍👨 Sex",
-    "🪐 Exclusive""
+    "🪐 Exclusive"
 ]
 
 rarity_map2 = {
