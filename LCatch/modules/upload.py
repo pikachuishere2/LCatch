@@ -14,10 +14,15 @@ use rarity number accordingly rarity Map
 
 rarity_map = {
     1: "⚪️ Comman",
-    2: "🟠 Nobel",
-    3: "Nude",
-    4: "Sex",
-    5: " Exclusive"
+    2: "💮 Special Edition",
+    3: "🔮 Limited Edition",
+    4: "🎐 Celestial",
+    5: "💖 Valentine", 
+    6: "❄️ Winter", 
+    7: "🏖 Summer", 
+    8: "🎃 Halloween", 
+    9: "🎨 Holi Addition", 
+    10: "⚽ Football"
 }
 """
 
