@@ -26,7 +26,7 @@ def LOGGER(name: str) -> logging.Logger:
 
 # ---------------------------- CONSTANTS ---------------------------------
 api_id = os.getenv("API_ID", "26821536")
-api_hash = os.getenv("API_HASH", 6b6ce2d7289857fdb35d435e5b43041d")
+api_hash = os.getenv("API_HASH", " 6b6ce2d7289857fdb35d435e5b43041d")
 TOKEN = os.getenv("TOKEN", "8335868817:AAGJ3_nTVOaE3IXpq0crF4zrjrlPd_fbpvo")
 GLOG = os.getenv("GLOG", "pcatchLogs")
 CHARA_CHANNEL_ID = os.getenv("CHARA_CHANNEL_ID", "PcatchLogs")
