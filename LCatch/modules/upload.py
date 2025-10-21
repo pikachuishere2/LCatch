@@ -8,7 +8,7 @@ from LCatch import application, CHARA_CHANNEL_ID, SUPPORT_CHAT, OWNER_ID, collec
 # Define the wrong format message and rarity map
 WRONG_FORMAT_TEXT = """Wrong ❌ format...  eg. /upload reply to photo muzan-kibutsuji Demon-slayer 3
 
-format:- /upload reply character-name anime-name rarity-number
+format:- /gupload reply character-name anime-name rarity-number
 
 use rarity number accordingly rarity Map
 
