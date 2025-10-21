@@ -31,9 +31,9 @@ TOKEN = os.getenv("TOKEN", "7727035867:AAFN7gPqQQHRksirYq69G5CsCmceEImy1es")
 GLOG = os.getenv("GLOG", "lusst_log")
 CHARA_CHANNEL_ID = os.getenv("CHARA_CHANNEL_ID", "lusst_log")
 SUPPORT_CHAT_ID = os.getenv("SUPPORT_CHAT_ID", "-1002521213057")
-mongo_url = os.getenv("MONGO_URL", "mongodb+srv://shreyan82683:shreyan82683@cluster0.ucwuljq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+mongo_url = os.getenv("MONGO_URL", "mongodb+srv://ahad0181888:ahad0181888@cluster0.f9casz0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-MUSJ_JOIN = os.getenv("MUSJ_JOIN", "-1002521213057")
+MUSJ_JOIN = os.getenv("MUSJ_JOIN", "-1002263592540")
 
 # Modified to support both image and video URLs
 START_MEDIA = os.getenv("START_MEDIA", "https://files.catbox.moe/tz669l.jpg,https://files.catbox.moe/90v7f0.mp4").split(',')
@@ -45,10 +45,10 @@ PHOTO_URL = [
 
 STATS_IMG = ["https://files.catbox.moe/0yl60o.jpg"] 
 
-SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", "https://t.me/+Qq_DJrLZyOAxOWE1")
-UPDATE_CHAT = os.getenv("UPDATE_CHAT", "https://t.me/lUst_uPdates")
-SUDO = list(map(int, os.getenv("SUDO", "7824632184").split(',')))
-OWNER_ID = int(os.getenv("OWNER_ID", "8043525426"))
+SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", "https://t.me/YourSexyGC")
+UPDATE_CHAT = os.getenv("UPDATE_CHAT", "https://t.me/PikauPdates")
+SUDO = list(map(int, os.getenv("SUDO", "8338988606").split(',')))
+OWNER_ID = int(os.getenv("OWNER_ID", "7804917014"))
 
 # --------------------- TELEGRAM BOT CONFIGURATION -----------------------
 command_filter = f.create(lambda _, __, message: message.text and message.text.startswith("/"))
