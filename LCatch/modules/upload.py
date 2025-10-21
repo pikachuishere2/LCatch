@@ -6,7 +6,7 @@ from gridfs import GridFS
 from LCatch import application, CHARA_CHANNEL_ID, SUPPORT_CHAT, OWNER_ID, collection, user_collection, db, SUDO, rarity_map, LC, require_power
 
 # Define the wrong format message and rarity map
-WRONG_FORMAT_TEXT = """Wrong ❌ format...  eg. /upload reply to photo muzan-kibutsuji Demon-slayer 3
+WRONG_FORMAT_TEXT = """Wrong ❌ format...  eg. /gupload reply to photo muzan-kibutsuji Demon-slayer 3
 
 format:- /gupload reply character-name anime-name rarity-number
 
