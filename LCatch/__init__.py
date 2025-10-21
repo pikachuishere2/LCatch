@@ -25,12 +25,12 @@ def LOGGER(name: str) -> logging.Logger:
     return logging.getLogger(name)
 
 # ---------------------------- CONSTANTS ---------------------------------
-api_id = os.getenv("API_ID", "22949712")
-api_hash = os.getenv("API_HASH", "918007ea4d42bb1b3eeb509d3f99b04a")
-TOKEN = os.getenv("TOKEN", "7727035867:AAFN7gPqQQHRksirYq69G5CsCmceEImy1es")
-GLOG = os.getenv("GLOG", "lusst_log")
-CHARA_CHANNEL_ID = os.getenv("CHARA_CHANNEL_ID", "lusst_log")
-SUPPORT_CHAT_ID = os.getenv("SUPPORT_CHAT_ID", "-1002521213057")
+api_id = os.getenv("API_ID", "26821536")
+api_hash = os.getenv("API_HASH", 6b6ce2d7289857fdb35d435e5b43041d")
+TOKEN = os.getenv("TOKEN", "8335868817:AAGJ3_nTVOaE3IXpq0crF4zrjrlPd_fbpvo")
+GLOG = os.getenv("GLOG", "pcatchLogs")
+CHARA_CHANNEL_ID = os.getenv("CHARA_CHANNEL_ID", "PcatchLogs")
+SUPPORT_CHAT_ID = os.getenv("SUPPORT_CHAT_ID", "-1002839682578")
 mongo_url = os.getenv("MONGO_URL", "mongodb+srv://ahad0181888:ahad0181888@cluster0.f9casz0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 MUSJ_JOIN = os.getenv("MUSJ_JOIN", "-1002263592540")
